@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-14 20:35+0545\n"
+"PO-Revision-Date: 2020-08-14 20:36+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "SORRY!"
+msgstr ""
+
+#: 404.php:18
+msgid "The Page You're Looking For Was Not Found"
+msgstr ""
+
+#: 404.php:22
+msgid "Goto Homepage"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:44
+msgid "Created By:"
+msgstr ""
+
+#: footer.php:46
+msgid "Fansee Themes"
+msgstr ""
+
+#: functions.php:308 modules/customizer/sections/class-theme-options.php:35
+#: modules/customizer/sections/class-theme-options.php:142
+#: modules/fields/fields-functions.php:37
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:310
+msgid "Widgets in this area will be shown on side of the page."
+msgstr ""
+
+#: functions.php:318
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:320 functions.php:330 functions.php:340 functions.php:350
+msgid "Widgets in this area will be shown on footer of the page."
+msgstr ""
+
+#: functions.php:328
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:338
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:348
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:421
+msgid "Published On"
+msgstr ""
+
+#: functions.php:421
+msgid "Updated on"
+msgstr ""
+
+#: functions.php:451
+msgid "By "
+msgstr ""
+
+#: functions.php:497
+msgid "Cagegories"
+msgstr ""
+
+#: functions.php:518
+msgid "Tags"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:37
+msgid "Previous"
+msgstr ""
+
+#: index.php:38
+msgid "Next"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:223
+msgid "Browse:"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:225
+msgid "Home"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:226
+msgid "404 Not Found"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:227
+msgid "Archives"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:229
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:231
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:233
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: modules/breadcrumb/class-breadcrumb.php:235
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: modules/customizer/customizer-functions.php:41
+msgid "Front Page Options"
+msgstr ""
+
+#: modules/customizer/customizer-functions.php:50
+msgid "Theme Options"
+msgstr ""
+
+#: modules/customizer/customizer-functions.php:83
+msgid "Header"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:16
+msgid "General"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:21
+msgid "Slider"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:26
+msgid "About"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:31
+msgid "Service"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:36
+msgid "Team"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:41
+msgid "Call to action"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:46
+msgid "Testimonial"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:51
+#: modules/customizer/sections/class-theme-options.php:40
+#: modules/customizer/sections/class-theme-options.php:186
+msgid "Blog"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:63
+msgid "SVG Shape Color"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:69
+msgid "Show Front Page Content"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:75
+msgid "Show Content Above"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:87
+msgid "Enable Slider"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:93
+msgid "Pages"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:101
+msgid "Auto Play"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:108
+msgid "Dots"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:115
+msgid "Infinite Scroll"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:122
+#: modules/customizer/sections/class-frontpage.php:160
+#: modules/customizer/sections/class-frontpage.php:211
+#: modules/customizer/sections/class-frontpage.php:286
+#: modules/customizer/sections/class-frontpage.php:330
+#: modules/customizer/sections/class-frontpage.php:374
+#: modules/customizer/sections/class-frontpage.php:427
+msgid "Enable Shortcode"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:128
+#: modules/customizer/sections/class-frontpage.php:166
+#: modules/customizer/sections/class-frontpage.php:217
+#: modules/customizer/sections/class-frontpage.php:292
+#: modules/customizer/sections/class-frontpage.php:336
+#: modules/customizer/sections/class-frontpage.php:380
+#: modules/customizer/sections/class-frontpage.php:433
+msgid "Shortcode"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:140
+#: modules/customizer/sections/class-frontpage.php:177
+#: modules/customizer/sections/class-frontpage.php:228
+#: modules/customizer/sections/class-frontpage.php:303
+#: modules/customizer/sections/class-frontpage.php:347
+#: modules/customizer/sections/class-frontpage.php:391
+msgid "Enable"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:146
+msgid "Page"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:153
+#: modules/customizer/sections/class-frontpage.php:197
+#: modules/customizer/sections/class-frontpage.php:248
+#: modules/customizer/sections/class-frontpage.php:323
+msgid "Button Text"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:155
+msgid "Know More"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:183
+#: modules/customizer/sections/class-frontpage.php:234
+#: modules/customizer/sections/class-frontpage.php:353
+#: modules/customizer/sections/class-frontpage.php:397
+msgid "Enable Shape"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:190
+#: modules/customizer/sections/class-frontpage.php:241
+#: modules/customizer/sections/class-frontpage.php:309
+#: modules/customizer/sections/class-frontpage.php:360
+#: modules/customizer/sections/class-frontpage.php:404
+msgid "Content Page"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:199
+msgid "More Services"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:204
+#: modules/customizer/sections/class-frontpage.php:255
+#: modules/customizer/sections/class-frontpage.php:367
+msgid "Sub Pages"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:250
+msgid "View All Member"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:262
+msgid "Total team to show"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:270
+#: modules/customizer/sections/class-frontpage.php:419
+msgid "Total column per row"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:278
+msgid "Select a Team Archive Page"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:316
+msgid "Button Link"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:325
+msgid "GET IN TOUCH"
+msgstr ""
+
+#: modules/customizer/sections/class-frontpage.php:411
+msgid "Total posts to show"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:16
+msgid "Typography"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:21
+msgid "Color"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:30
+msgid "Breadcrumb"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:45
+msgid "Footer"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:50
+msgid "Advanced"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:69
+msgid "The value is in px."
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:73
+msgid "Site Identity Font Family"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:74
+msgid "Font family for site title and tagline. Defaults to Hind"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:81
+msgid "Body Font Family."
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:82
+msgid "Defaults to Hind."
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:89
+msgid "Headings Font Family."
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:90
+msgid "h1 to h6. Defaults to Quicksand."
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:102
+msgid "Primary Color"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:108
+msgid "Body Text Color"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:114
+msgid "Link Color"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:120
+msgid "Link Hover Color"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:131
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:146
+#: modules/fields/fields-functions.php:40
+msgid "Show"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:147
+#: modules/fields/fields-functions.php:43
+msgid "Hide"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:156
+msgid "Show Categories or Tags"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:162
+msgid "Show Date"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:168
+msgid "Show Author"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:179
+msgid "Hide in Archive pages."
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:185
+msgid "Title"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:191
+msgid "Text Color"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:197
+msgid "Background Color"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:203
+msgid "Background Overlay"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:214
+msgid "Height (px)"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:216
+msgid "The value is in px. Defaults to 420px."
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:235
+msgid "Show Social Menu"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:236
+msgid ""
+"Please add Social menus for enabling Social menus. Go to Menus for setting up"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:242
+msgid "Copyright Text"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:243
+msgid "Copyright &copy; All right reserved"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:253
+msgid "Show Preloader"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:259
+msgid "Enable Search"
+msgstr ""
+
+#: modules/customizer/sections/class-theme-options.php:265
+msgid "Enable Scroll To Top"
+msgstr ""
+
+#: modules/fields/fields-functions.php:9 modules/fields/fields-functions.php:17
+msgid "Fansee Business Settings"
+msgstr ""
+
+#: modules/fields/fields-functions.php:50
+msgid "Use banner from customizer"
+msgstr ""
+
+#: modules/fields/fields-functions.php:58
+msgid "Disable Banner"
+msgstr ""
+
+#: modules/fields/fields-functions.php:65
+msgid "Disable Footer Widget"
+msgstr ""
+
+#: modules/scripts/scripts-functions.php:68
+msgid "What are you looking for?"
+msgstr ""
+
+#: modules/theme-setup/theme-setup-functions.php:63
+msgid "Primary"
+msgstr ""
+
+#: modules/theme-setup/theme-setup-functions.php:64
+msgid "Footer social menu"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-banner.php:66
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords or you can add post."
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Get Started Here"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "We can't seem to find any result that match your search key."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Go To Homepage"
+msgstr ""
+
+#: template-parts/content-single.php:19
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:50
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/content-single.php:51
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/front-page/front-page-blog.php:40
+msgid "Categories"
+msgstr ""
+
+#: template-parts/front-page/front-page-blog.php:70
+msgid "View All News"
+msgstr ""

@@ -1,0 +1,972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-13 12:11+0600\n"
+"PO-Revision-Date: 2021-01-13 12:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;__;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:25
+msgid "Oops! That page cannot be found"
+msgstr ""
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: classes/class-xooblog-customizer.php:26
+msgid "xooblog Theme Options"
+msgstr ""
+
+#: classes/class-xooblog-customizer.php:52
+msgid "Chnage Link Color"
+msgstr ""
+
+#: classes/class-xooblog-customizer.php:61
+msgid "Copyright © 2020 XooBlog"
+msgstr ""
+
+#: classes/class-xooblog-customizer.php:69
+msgid "Footer Text"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments navigation"
+msgstr ""
+
+#: footer.php:100 footer.php:105
+msgid "Powered By"
+msgstr ""
+
+#: footer.php:102 footer.php:106
+msgid "TecXoo"
+msgstr ""
+
+#: footer.php:133
+msgid "Top"
+msgstr ""
+
+#: footer.php:158
+msgid "Search Anything"
+msgstr ""
+
+#: footer.php:161
+msgid "Close"
+msgstr ""
+
+#: footer.php:169
+msgid "Search …"
+msgstr ""
+
+#: footer.php:169 functions.php:255
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:34
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:112 functions.php:128 functions.php:143 functions.php:158
+#: functions.php:173
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:156
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:171
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:210
+msgid "Skip to the content"
+msgstr ""
+
+#: functions.php:256
+msgid "Search"
+msgstr ""
+
+#: header.php:154
+msgid "Loading...."
+msgstr ""
+
+#: header.php:202 header.php:245 header.php:298
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/options-panel.php:14
+msgid "Xooblog Options"
+msgstr ""
+
+#: inc/options-panel.php:23
+msgid "General"
+msgstr ""
+
+#: inc/options-panel.php:25
+msgid "Theme Default Settings"
+msgstr ""
+
+#: inc/options-panel.php:32
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/options-panel.php:33 inc/options-panel.php:40 inc/options-panel.php:48
+#: inc/options-panel.php:95 inc/options-panel.php:102 inc/options-panel.php:109
+#: inc/options-panel.php:117 inc/options-panel.php:268
+#: inc/options-panel.php:276 inc/options-panel.php:407
+#: inc/options-panel.php:433 inc/options-panel.php:583
+#: inc/options-panel.php:590 inc/options-panel.php:597
+#: inc/options-panel.php:604 inc/options-panel.php:611
+#: inc/options-panel.php:618 inc/options-panel.php:906
+msgid "Look, it's on!"
+msgstr ""
+
+#: inc/options-panel.php:39
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/options-panel.php:47
+msgid "Preloader"
+msgstr ""
+
+#: inc/options-panel.php:55
+msgid "Media w/ URL"
+msgstr ""
+
+#: inc/options-panel.php:56
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: inc/options-panel.php:57
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: inc/options-panel.php:66
+msgid "Typography"
+msgstr ""
+
+#: inc/options-panel.php:82 inc/options-panel.php:141 inc/options-panel.php:309
+#: inc/options-panel.php:335 inc/options-panel.php:382
+#: inc/options-panel.php:491 inc/options-panel.php:518
+#: inc/options-panel.php:572 inc/options-panel.php:706
+#: inc/options-panel.php:733 inc/options-panel.php:782
+#: inc/options-panel.php:810
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: inc/options-panel.php:94
+msgid "Show Date and Time"
+msgstr ""
+
+#: inc/options-panel.php:101
+msgid "Show Post Count"
+msgstr ""
+
+#: inc/options-panel.php:108
+msgid "Show Author"
+msgstr ""
+
+#: inc/options-panel.php:116
+msgid "Show Read More"
+msgstr ""
+
+#: inc/options-panel.php:125
+msgid "Xooblog Default Typhography Options"
+msgstr ""
+
+#: inc/options-panel.php:153
+msgid "Body Background"
+msgstr ""
+
+#: inc/options-panel.php:154
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/options-panel.php:155 inc/options-panel.php:166
+#: inc/options-panel.php:194 inc/options-panel.php:212
+#: inc/options-panel.php:254 inc/options-panel.php:441
+#: inc/options-panel.php:543 inc/options-panel.php:836
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: inc/options-panel.php:164
+msgid "Links Color Option"
+msgstr ""
+
+#: inc/options-panel.php:165
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: inc/options-panel.php:181
+msgid "Layouts"
+msgstr ""
+
+#: inc/options-panel.php:183
+msgid "All layout Options"
+msgstr ""
+
+#: inc/options-panel.php:191
+msgid "Select Page Layouts"
+msgstr ""
+
+#: inc/options-panel.php:207
+msgid "Select Sidebar Position"
+msgstr ""
+
+#: inc/options-panel.php:211
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: inc/options-panel.php:242
+msgid "Header Options"
+msgstr ""
+
+#: inc/options-panel.php:244
+msgid "Header Details Options"
+msgstr ""
+
+#: inc/options-panel.php:250
+msgid "Select Menu Layouts"
+msgstr ""
+
+#: inc/options-panel.php:267
+msgid "Show Toolbar on Top"
+msgstr ""
+
+#: inc/options-panel.php:274
+msgid "Show Toolbar Menu"
+msgstr ""
+
+#: inc/options-panel.php:275
+msgid "Use this for show hide toolbar left side menu"
+msgstr ""
+
+#: inc/options-panel.php:282
+msgid "Xooblog Toolbar color"
+msgstr ""
+
+#: inc/options-panel.php:284 inc/options-panel.php:681
+#: inc/options-panel.php:756 inc/options-panel.php:851
+#: inc/options-panel.php:914
+msgid "Pick a background color for the theme (default: #fff)."
+msgstr ""
+
+#: inc/options-panel.php:293
+msgid "Toolbar Menu Typography Option"
+msgstr ""
+
+#: inc/options-panel.php:319
+msgid "Toolbar Social Icon Typography option"
+msgstr ""
+
+#: inc/options-panel.php:345
+msgid "Xooblog Navigation Background Color"
+msgstr ""
+
+#: inc/options-panel.php:366
+msgid "Navigation Menu Typography Option"
+msgstr ""
+
+#: inc/options-panel.php:398
+msgid "Featured Options"
+msgstr ""
+
+#: inc/options-panel.php:400
+msgid "All Featured Options"
+msgstr ""
+
+#: inc/options-panel.php:406
+msgid "Show Featured Blog"
+msgstr ""
+
+#: inc/options-panel.php:415
+msgid "Select Featuredbox Layouts"
+msgstr ""
+
+#: inc/options-panel.php:418
+msgid "Select Image to set Featured Box layouts"
+msgstr ""
+
+#: inc/options-panel.php:432
+msgid "Show Featured Blog Category Blog"
+msgstr ""
+
+#: inc/options-panel.php:440
+msgid "Select Category"
+msgstr ""
+
+#: inc/options-panel.php:451
+msgid "Featured Post Number"
+msgstr ""
+
+#: inc/options-panel.php:452
+msgid "This slider displays the value as a lPoppins."
+msgstr ""
+
+#: inc/options-panel.php:453
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: inc/options-panel.php:464
+msgid "Xooblog Fetured Post Background Color"
+msgstr ""
+
+#: inc/options-panel.php:466
+msgid "Pick a background color for Featured Box"
+msgstr ""
+
+#: inc/options-panel.php:475
+msgid "Topbox Title Typography Option"
+msgstr ""
+
+#: inc/options-panel.php:502
+msgid "Featured Blog Meta Typography Option"
+msgstr ""
+
+#: inc/options-panel.php:531
+msgid "Single Page"
+msgstr ""
+
+#: inc/options-panel.php:533
+msgid "All Single Page Options"
+msgstr ""
+
+#: inc/options-panel.php:539
+msgid "Select Single Page Layouts"
+msgstr ""
+
+#: inc/options-panel.php:556
+msgid "Single Blog Title Typography Option"
+msgstr ""
+
+#: inc/options-panel.php:582
+msgid "Show Date on Single BLog"
+msgstr ""
+
+#: inc/options-panel.php:589
+msgid "Show Author on Single Blog"
+msgstr ""
+
+#: inc/options-panel.php:596
+msgid "Show Post Count On Single Blog"
+msgstr ""
+
+#: inc/options-panel.php:603
+msgid "Show Post Comments Count On Single Blog"
+msgstr ""
+
+#: inc/options-panel.php:610
+msgid "Show Category On Single Blog"
+msgstr ""
+
+#: inc/options-panel.php:617
+msgid "Show Tags On Single Blog"
+msgstr ""
+
+#: inc/options-panel.php:670
+msgid "Style Options"
+msgstr ""
+
+#: inc/options-panel.php:672
+msgid "Add Options"
+msgstr ""
+
+#: inc/options-panel.php:679
+msgid "Xooblog post Background color"
+msgstr ""
+
+#: inc/options-panel.php:690
+msgid "Post Title Typography Option"
+msgstr ""
+
+#: inc/options-panel.php:717
+msgid "Post Meta Typography Option"
+msgstr ""
+
+#: inc/options-panel.php:755
+msgid "Pagination Color"
+msgstr ""
+
+#: inc/options-panel.php:766
+msgid "Xooblog Pagination Typography Options"
+msgstr ""
+
+#: inc/options-panel.php:794
+msgid "Xooblog Readmore Typography Options"
+msgstr ""
+
+#: inc/options-panel.php:824
+msgid "Footer Options"
+msgstr ""
+
+#: inc/options-panel.php:826 inc/options-panel.php:865
+msgid "Footer Details Options"
+msgstr ""
+
+#: inc/options-panel.php:832
+msgid "Select Footer Layouts"
+msgstr ""
+
+#: inc/options-panel.php:849
+msgid "Footer Background  color"
+msgstr ""
+
+#: inc/options-panel.php:863
+msgid "Social Options"
+msgstr ""
+
+#: inc/options-panel.php:870
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/options-panel.php:875
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/options-panel.php:880
+msgid "Linkdin Link"
+msgstr ""
+
+#: inc/options-panel.php:885
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/options-panel.php:896
+msgid "Miscellaneous"
+msgstr ""
+
+#: inc/options-panel.php:898
+msgid "All Aditional Options"
+msgstr ""
+
+#: inc/options-panel.php:905
+msgid "Show Scroll Top"
+msgstr ""
+
+#: inc/options-panel.php:912
+msgid "Xooblog Widget Background color"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:160
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgid "Next"
+msgstr ""
+
+#: search.php:19
+msgid "Search results for: "
+msgstr ""
+
+#: single.php:37
+#, php-format
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</"
+"span>"
+msgstr ""
+
+#: single.php:45
+msgid "Next post:"
+msgstr ""
+
+#: single.php:46
+msgid "Next:"
+msgstr ""
+
+#: single.php:48
+msgid "Previous:"
+msgstr ""
+
+#: single.php:49
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content/content.php:249
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/content.php:271
+msgid "Category: "
+msgstr ""
+
+#: template-parts/content/content.php:281
+#: template-parts/post-formats/featured-post.php:55
+#: template-parts/post-formats/featured-post.php:132
+#: template-parts/post-formats/first-post.php:44
+#: template-parts/post-formats/first-post.php:159
+#: template-parts/post-formats/post.php:61
+#: template-parts/post-formats/post.php:202
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: template-parts/content/content.php:310
+msgid "Tags: "
+msgstr ""
+
+#: template-parts/post-formats/first-post.php:113
+#: template-parts/post-formats/first-post.php:231
+#: template-parts/post-formats/post.php:156
+#: template-parts/post-formats/post.php:295
+msgid "Read More.."
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:33
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:46
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/post-formats/post-none.php:53
+msgid ""
+"It seems we con't  find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:13
+msgid "Author Bio Widget"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:60
+#: widgets/xooblog-recent-post-widget-thumbnail.php:74
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:61
+msgid "Name"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:62
+msgid "Gravatar image_url"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:63
+msgid "Profile Picture Size"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:64
+msgid "About"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:65
+msgid "Button Title"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:66
+msgid "Button Link"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:70
+msgid "Widget Title:"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:74
+msgid "Name:"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:78
+msgid "Profile Image Url:"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:82
+msgid "Profile Picture Size:"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:86
+msgid "About:"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:90
+msgid "Button Title:"
+msgstr ""
+
+#: widgets/xooblog-author-bio-widget.php:94
+msgid "Button Link:"
+msgstr ""
+
+#: widgets/xooblog-recent-post-widget-thumbnail.php:13
+msgid "Recent Post Thumbnail Widget"
+msgstr ""
+
+#: widgets/xooblog-recent-post-widget-thumbnail.php:81
+msgid "Title:"
+msgstr ""
+
+#: widgets/xooblog-recent-post-widget-thumbnail.php:85
+msgid "Number Of Post"
+msgstr ""
+
+#: widgets/xooblog-recent-post-widget-thumbnail.php:89
+msgid "Show Post Date"
+msgstr ""
